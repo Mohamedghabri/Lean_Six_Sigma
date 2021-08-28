@@ -1,1 +1,1 @@
-# Part of Data Science for Lean 6 Sigma projet
+Part of Data Science for Lean 6 Sigma projet
